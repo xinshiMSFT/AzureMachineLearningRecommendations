@@ -1,0 +1,15 @@
+1,Halogen Headlights,Car Parts,description, quality=awesome
+2,Filter Set,Car Parts,description, quality=awesome
+3,12-Volt Calcium Battery,Car Parts,description, quality=awesome
+4,Brake Disk and Calipers,Car Parts,description, quality=awesome
+5,Disk and Pad Combo,Car Parts,description, quality=awesome
+6,Wheel Tire Combo (4 Pack),Car Parts,description, quality=awesome
+7,Chrome Rim Tire Combo,Car Parts,description, quality=awesome
+8,Wheel Tire Combo,Car Parts,description, quality=awesome
+9,High Performance Rim,Car Parts,description, quality=awesome
+10,Blue Performance Alloy Rim,Car Parts,description, quality=awesome
+11,Matte Finish Rim,Car Parts,description, quality=awesome
+12,Turn Signal Light Bulb,Car Parts,description, quality=awesome
+13,Bugeye Headlights (2 Pack),Car Parts,description, quality=awesome
+14,Oil and Filter Combo,Car Parts,description, quality=awesome
+15,Synthetic Engine Oil,Car Parts,description, quality=awesome
